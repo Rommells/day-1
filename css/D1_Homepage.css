@@ -1,0 +1,60 @@
+body{
+	letter-spacing:2px;
+}
+ul  {
+	margin-top:0px;
+	margin-bottom:5px;
+	padding:0px;
+}
+li    {
+	list-style:none;
+	display:inline-block;
+	margin:5px;
+}
+.geshi{
+	text-decoration: none;
+	color:5f5f5f;
+}
+#optionlist{
+	border-bottom:1px solid #ccc;
+	text-align:right;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:16px;
+}
+.imagestyle{
+	float:right;
+}
+.fonstyle1{
+	color:#FF9933;
+    margin:5px 20px 5px 20px;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:80px;	
+}
+.fonstyle2{
+	color:#5F5F5F;
+    margin:5px 20px 5px 20px;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:25px;	
+}
+.fonstyle3{
+	color:#FF9933;
+    margin:5px 20px 5px 20px;
+	font-family:Arial,Verdana,sans-serif;
+    font-size:30px;	
+}
+.fonstyle4{
+	color:#5F5F5F;
+    margin:5px 20px 5px 20px;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:25px;
+}
+#welcomediv{
+	border-top:1px solid #5F5F5F;
+	border-bottom:1px solid #5F5F5F;
+	text-align:center;
+	font-family:Arial,Verdana,sans-serif;
+	font-size:25px;	
+}
+#lists p{
+	margin:20px;
+}
